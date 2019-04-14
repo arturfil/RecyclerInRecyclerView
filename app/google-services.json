@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299121877701",
+    "firebase_url": "https://recyclerinrecycler.firebaseio.com",
+    "project_id": "recyclerinrecycler",
+    "storage_bucket": "recyclerinrecycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299121877701:android:716175a9481d8f9e",
+        "android_client_info": {
+          "package_name": "com.arturofilio.recyclerinrecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299121877701-dskb61tu7aghbpobcqli25s75iuc1hhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arturofilio.recyclerinrecycler",
+            "certificate_hash": "8efe802d6cef29f444c2f89f38be3f3ec4731d68"
+          }
+        },
+        {
+          "client_id": "299121877701-6hen7933qqllcfgu3f3rbdnn9e04fvrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFSdIm-WbKtJEk1ftibjZdeg_CyG5Ius"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299121877701-6hen7933qqllcfgu3f3rbdnn9e04fvrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
